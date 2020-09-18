@@ -6,9 +6,7 @@ Created on Fri Sep 18 11:54:23 2020
 """
 
 """
-Created on Sun Aug 21 16:59:18 2016
-@author: Claudio Bellei
---------------------
+
 DYNAMIC TIME WARPING
 --------------------
 Input: ts1, ts2 (timeseries)
